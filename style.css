@@ -1,0 +1,20 @@
+body{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+div{
+    margin-top: 100px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button {
+    margin: 25px;
+    padding: 50px;
+    background-image: url("./img/button.jpg");
+    background-size: 115px;
+    border-color: black;
+    border-width: 7px;
+}
